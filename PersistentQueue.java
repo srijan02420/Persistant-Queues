@@ -1,5 +1,3 @@
-package jp.co.wap.exam; 
-
 import java.util.NoSuchElementException;
  
 /** 
